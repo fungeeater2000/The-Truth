@@ -1,0 +1,14 @@
+{
+  "name": "The Truth Library",
+  "identifier": "com.fungeeater2000.thetruth",
+  "apps": [
+    {
+      "name": "The Truth Store",
+      "bundleIdentifier": "com.fungeeater2000.thetruth",
+      "version": "1.0",
+      "downloadURL": "https://fungeeater2000.github.io",
+      "iconURL": "https://fungeeater2000.github.io",
+      "description": "Official Store for fungeeater2000. Verified and Revokeless."
+    }
+  ]
+}
