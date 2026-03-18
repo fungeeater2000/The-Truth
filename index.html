@@ -16,20 +16,17 @@ p { color: #888; font-size: 1.1rem; margin-bottom: 40px; }
 </head>
 <body>
 
-<img src="icon.png" class="logo" alt="The Truth Logo">
+<img src="./icon.png" class="logo" alt="The Truth Logo">
 <h1>The Truth</h1>
 <p>The Gold Standard for iOS Freedom</p>
 
-<!-- FIXED STEP 1: The 'type' attribute forces the iPhone to recognize the profile -->
-<a href="./shield.mobileconfig"
-type="application/x-apple-aspen-config"
-class="btn shield-btn">
+<!-- STEP 1: FIXED LINK -->
+<a href="./shield.mobileconfig" type="application/x-apple-aspen-config" class="btn shield-btn">
 STEP 1: INSTALL SHIELD
 </a>
 
-<!-- STEP 2: Change YOUR_USER to your actual GitHub username below -->
-<a href="itms-services://?action=download-manifest&url=https://fungeeater2000.github.io/The-Truth/app.plist"
-class="btn">
+<!-- STEP 2: REPLACE YOUR_USER WITH YOUR ACTUAL GITHUB USERNAME -->
+<a href="itms-services://?action=download-manifest&url=https://fungeeater2000.github.io/The-Truth/app.plist" class="btn">
 STEP 2: INSTALL STORE
 </a>
 
