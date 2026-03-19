@@ -8,5 +8,7 @@ The gold standard for IOS sideloading. Unlock everything. Restricted by nothing.
 2. **The Store:** [Install The T](itms-services://?action=download-manifest&url=your-plist-url)
 3. **Trust:** Go to Settings > General > VPN & Device Management and trust the Enterprise Certificate.
 
+4. **Webiste Download**https://fungeeater2000.github.io/The-Truth/
+
 ---
 *Disclaimer: For educational purposes only. We do not host copyrighted material. Use at your own risk.*
